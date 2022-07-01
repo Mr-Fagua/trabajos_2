@@ -12,9 +12,10 @@ En este repositorio encontrara diferentes ejercicios hechos con JavaScript aplic
 >>- ¿Qué es el formato JSON?
 
 > 2. Archivos.
->>- tablas_multi.js
+> tablas_multi
+>>>- tablas_multi.js
 >>- tienda_versiones
->>>- tienda
+>>>- tiendaV3
 >>>- tiendaV0.js
 >>>- tiendaV1.js
 >>- tablas_multi.js
@@ -59,7 +60,8 @@ ARCHIVOS: en esta carpeta encontrara:
 >>>- index.html : este es el archivo que debe ejecutar en el navegador para que la version  3 funcione, en este archivo se encuentra la arquitectura basica de HTML5 y un script que nos permite la conexion con el modulo de javascript ***NOTA: el programade debe ser ejecutado en el servodor que local que no brinda visual estudio code con la extencion live server, en visual studio abra la carpeta tienda y ejecute el archivo index con live server***
 >>>- datos.JSON : en este archivo se encuentran los datos del inventario serializados que son usados en el archivo .js
 >>>-  tiendaV3 : el archivo javascript con todo da funcionalidad del programa.
-
-### tablas_multi.js
+##tablas_multi
+dentro de esta carpeta se encuentrra el siguiente archivo.
+#### tablas_multi.js
 En este archivo encontrara un programa que imprime la tabla de multiplicar que el usuario desee y en caso de no digitar nada imprime una tabla por defecto 
 
