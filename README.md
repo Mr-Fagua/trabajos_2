@@ -12,7 +12,7 @@ En este repositorio encontrara diferentes ejercicios hechos con JavaScript aplic
 >>- ¿Qué es el formato JSON?
 
 > 2. Archivos.
-> tablas_multi
+>> tablas_multi
 >>>- tablas_multi.js
 >>- tienda_versiones
 >>>- tiendaV3
